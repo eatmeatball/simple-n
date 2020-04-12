@@ -1,0 +1,31 @@
+{
+  "name": "simple-n",
+  "version": "0.0.1",
+  "description": "",
+  "main": "simple-n.js",
+  "bin": {
+    "simple-n": "simple-n.js",
+    "time":"time"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^5.0.0",
+    "inquirer": "^7.1.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node simple-n.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hzjoyous/simple-n.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hzjoyous/simple-n/issues"
+  },
+  "homepage": "https://github.com/hzjoyous/simple-n#readme"
+}
